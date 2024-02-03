@@ -1,2 +1,2 @@
 # Javascript
-A repo for learning javascript for beginners to pro
+A code repo for learning javascript for beginners to pro
